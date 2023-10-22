@@ -1,0 +1,49 @@
+body{
+    background-color: lightblue;
+}
+.card{
+
+    background-color:whitesmoke;
+    border-radius: 5%;
+
+    
+}
+.C{
+    display: flex;
+    justify-content: center;
+    min-height: 400px;
+    margin-top: 30px;
+    
+}
+h3{
+    font-family: cursive;
+    background-color: aqua;
+}
+.btn{
+    border-radius: 15%;
+    margin-right: 5px;
+    font-family: cursive;
+}
+.in{
+    height: 30px;
+    margin-left: 5px;
+    font-family: cursive;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+ul{
+    text-align:start;
+    font-weight: 600;
+    font-family: cursive;
+}
+.t{
+    display:flex;
+}
+.b{
+    margin-left: 10px;
+    border-radius: 50%;
+    background-color: aquamarine;
+    height:20px;
+
+    
+}
